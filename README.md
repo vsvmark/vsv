@@ -28,16 +28,16 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## dMMM Whitepaper
+## VSV Whitepaper
 [EN](https://github.com/vsvmark/vsv/master/whitepapers/xxx.pdf)
 
-## dMMM dApp
-[https://eth-esv.vip](https://eth-esv.vip)
+## VSV dApp
+[https://eth-vsv.vip](https://eth-esv.vip)
 
-## dMMM Contract Source Code
+## VSV Contract Source Code
 [https://github.com//vsvmark/vsv/](https://github.com//vsvmark/vsv/)
 
-## dMMM ABI Source File
+## VSV ABI Source File
 [https://github.com//vsvmark/vsv/master/abi/TokenBank.abi](https://github.com/d-mmm/dmmm-source/blob/master/abi/TokenBank.abi)
 
 ## dMMM News
