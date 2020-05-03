@@ -32,7 +32,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 [EN](https://github.com/vsvmark/vsv/master/whitepapers/xxx.pdf)
 
 ## VSV dApp
-[https://eth-vsv.vip](https://eth-esv.vip)
+[https://eth-vsv.vip](https://eth-vsv.vip)
 
 ## VSV Contract Source Code
 [https://github.com//vsvmark/vsv/](https://github.com//vsvmark/vsv/)
@@ -40,5 +40,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## VSV ABI Source File
 [https://github.com//vsvmark/vsv/master/abi/TokenBank.abi](https://github.com/d-mmm/dmmm-source/blob/master/abi/TokenBank.abi)
 
-## dMMM News
-🎉🎉🎉 We are proud to announce that the dMMM dApp will be updated with a brand new UI version in May! 🎉🎉🎉
+## VSV News
+🎉🎉🎉 We are proud to announce that the VSV MARK dApp is Online!
