@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@alanchenchen/waveprogress": "^0.1.4",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "core-js": "^2.6.11",
     "eth-reveal": "^0.5.10",
     "js-cookie": "^2.2.1",
